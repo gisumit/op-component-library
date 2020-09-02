@@ -3,7 +3,7 @@
 This packages contains the all common styles which are important to get
 started with any component which includes global variables, colors, common mixin etc.
 
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/badge/version-0.0.5-blue.svg?cacheSeconds=2592000)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/1-Platform/op-components/graphs/commit-activity)
 
 
